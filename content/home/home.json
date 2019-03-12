@@ -1,0 +1,29 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "services": [{
+    "content": "service_1.md",
+    "title" : "service 1",
+    "image": "illustration1"
+  },
+  {
+    "content": "service_2.md",
+    "title" : "service 2",
+    "image": "illustration2"
+  },
+  {
+    "content": "service_3.md",
+    "title" : "service 3",
+    "image": "illustration3"
+  }],
+  "services_list": {
+    "image": "../images/gallery/services.png",
+    "lists": [{
+     "title": "Web Design",
+      "content": "design_list.md"
+    },
+    { "title": "Web Development",
+    "content": "development_list.md"
+    }]
+  }
+}

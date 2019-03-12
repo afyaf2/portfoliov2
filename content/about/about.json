@@ -1,0 +1,68 @@
+{
+  "title": "About",
+  "header": "A little bit about me",
+  "content": "content.md",
+  "image": "../images/gallery/me.png",
+  "tools": [{
+    "title": "invision"
+  },
+  {
+    "title": "sketch"
+  },
+  {
+    "title": "zeplin"
+  }],
+  "tech": [{
+    "title": "html5"
+  },
+  {
+    "title": "css3"
+  },
+  {
+    "title": "sass"
+  },
+  {
+    "title": "semanticui"
+  },
+  {
+    "title": "bootstrap"
+  },
+  {
+    "title": "javascript"
+  },
+  {
+    "title": "react"
+  },
+  {
+    "title": "rails"
+  },
+  {
+    "title": "heroku"
+  },
+  {
+    "title": "webpack"
+  },
+  {
+    "title":"shopify"
+  }],
+  "links":[{
+    "title":"resume",
+    "url":"https://drive.google.com/file/d/1S__5R5K6o9vrKY2kU0HQftC-hqYhymDG/view"
+  },
+  {
+    "title":"linkedin",
+    "url":"https://www.linkedin.com/in/adam-frej-499110171/"
+  },
+  {
+    "title":"gmail",
+    "url":"me@awfrej.com"
+  },
+  {
+    "title":"github",
+    "url":"https://www.github.com/afyaf2"
+  },
+  {
+    "title":"instagram",
+    "url":"https://www.instagram.com/awfrej/"
+  }]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Projects",
+  "projects": [{
+    "title": "Aesop Digital",
+    "role" : "Web Design & Development",
+    "image": "illustration1",
+    "tags": [ "design", "development"],
+    "description": "project1.md",
+    "tools": [ "sketch", "zeplin" ],
+    "tech": ["html5", "sass", "javascript"],
+    "url":"http://aesop-digital.com",
+    "github":"https://github.com/afyaf2/aesop"
+  },
+  {
+    "title": "Jada Sleep",
+    "role" : "Front End Developer",
+    "image": "illustration1",
+    "tags": [ "development"],
+    "description": "project2.md",
+    "tools": [ "sketch", "zeplin" ],
+    "tech": ["html5", "sass", "javascript", "shopify", "webpack"],
+    "url":"https://jadasleep.com"
+  },
+  {
+    "title": "React Chat App",
+    "role" : "Full Stack Developer",
+    "image": "illustration1",
+    "tags": [ "development"],
+    "description": "project3.md",
+    "tools": [ "sketch", "zeplin" ],
+    "tech": ["html5", "sass", "react", "semanticui", "heroku"],
+    "url":"https://react-slack-chat-app.herokuapp.com",
+    "github": "https://github.com/afyaf2/react-slack"
+  }]
+}

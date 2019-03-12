@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Futura-Heavy";
+    font-style: normal;
+    font-weight: normal;
+    src: url("./FuturaHeavy.ttf")
+    format("truetype")
+  };
+
+  @font-face {
+    font-family: "Futura-Medium";
+    font-style: normal;
+    font-weight: normal;
+    src: url("./FuturaMd.ttf")
+    format("truetype")
+  }
+
+  @font-face {
+    font-family: "Sans-Serif-Shaded";
+    font-style: normal;
+    font-weight: normal;
+    src: url("./Shaded.otf")
+    format("opentype")
+  }
+
+  @font-face {
+    font-family: "Trueno-Rg";
+    font-style: normal;
+    font-weight: normal;
+    src: url("./TruenoRg.otf")
+    format("opentype")
+  };
+
+  @font-face {
+    font-family: "Trueno-Bd";
+    font-style: normal;
+    font-weight: 600;
+    src: url("./TruenoBd.otf")
+    format("opentype")
+  };

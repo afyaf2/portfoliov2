@@ -1,0 +1,2 @@
+Responsible for the development and deployment of the site on the Shopify platform. Translated the designs to code using Sketch and Invision.
+I used Slate as my build tool, with webpack for module bundling and asset imports. JQuery was used along with HTML and SASS to render a beautiful ecommerce experience and full integration with AJAX cart and form submission. Work completed while at __HRVST__.
