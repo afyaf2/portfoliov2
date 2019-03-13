@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: 'Adam William Frej - Creative Developer',
   siteTitleShort: 'AWF',
   siteDescription: 'Design, Dev, & All Things Web.',
-  siteUrl: 'https://gu.fabianschultz.com',
+  siteUrl: '',
   themeColor: '#000',
   backgroundColor: '#fff',
   pathPrefix: null,
