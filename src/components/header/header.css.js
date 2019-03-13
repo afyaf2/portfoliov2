@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { lightblue, orange } from 'constants/theme';
+import MEDIA from 'helpers/mediaTemplates';
 
 export const Container = styled.header`
   display: flex;
@@ -27,5 +28,10 @@ export const Container = styled.header`
     svg * {
       fill: ${props => props.hero ? 'white' : `${lightblue}`};
     }
+    ${MEDIA.MIN_DESKTOP`
+      svg {
+        padding-left: 0
+      }
+    `}
   }
 `;
