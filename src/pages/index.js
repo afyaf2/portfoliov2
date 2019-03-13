@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Layout from 'components/layout';
 import Title from 'components/title';
-import Services from 'components/services';
+import Services from 'components/Services';
 import ServiceList from 'components/ServiceList';
 import FormContainer from 'components/FormContainer';
 import { graphql } from 'gatsby';
