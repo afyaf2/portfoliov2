@@ -8,7 +8,7 @@ const Thanks = ({ location }) => (
   <Layout>
     <Head pageTitle="thanks" />
     <Box>
-      <h1> Hey {location.state.name}! Thanks for your message! </h1>
+      <h1> Hey! Thanks for your message! </h1>
     </Box>
   </Layout>
 );
