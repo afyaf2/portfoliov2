@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Item from 'components/ServiceList/item';
+import Item from 'components/ServiceList/Item';
 import Img from 'gatsby-image';
 import { ListContainer, List } from './servicelist.css';
 
