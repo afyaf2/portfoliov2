@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: 'Adam William Frej - Creative Developer',
   siteTitleShort: 'AWF',
   siteDescription: 'Design, Dev, & All Things Web.',
-  siteUrl: '',
+  siteUrl: 'https://kind-stonebraker-0fbd09.netlify.com/',
   themeColor: '#000',
   backgroundColor: '#fff',
   pathPrefix: null,
