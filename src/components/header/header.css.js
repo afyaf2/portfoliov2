@@ -28,7 +28,7 @@ export const Container = styled.header`
     svg * {
       fill: ${props => props.hero ? 'white' : `${lightblue}`};
     }
-    ${MEDIA.MIN_DESKTOP`
+    ${MEDIA.TABLET`
       svg {
         padding-left: 0
       }

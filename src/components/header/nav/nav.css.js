@@ -17,7 +17,7 @@ export const Container = styled.nav`
       }
     }
   }
-  ${MEDIA.MIN_DESKTOP`
+  ${MEDIA.TABLET`
     ul {
       margin-right: unset
     }
