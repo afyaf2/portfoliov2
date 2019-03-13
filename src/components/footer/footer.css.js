@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { lightblue, orange } from 'constants/theme';
+import MEDIA from 'helpers/mediaTemplates';
 
 export const FooterBar = styled.nav`
   display: inline-flex;
@@ -30,6 +31,16 @@ export const FooterBar = styled.nav`
         margin-left: 2rem;
       }
     }
+    ${MEDIA.TABLET`
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 7.5rem;
+      li {
+        width: min-content;
+        margin-left: 0
+      }
+    `}
   }
   svg * {
     fill: white
