@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteTitle: 'Adam William Frej - Creative Developer',
   siteTitleShort: 'AWF',
-  siteDescription: 'Design, Dev, & All Things Web.',
+  siteDescription: 'Design, Dev & All Things Web.',
   siteUrl: 'https://kind-stonebraker-0fbd09.netlify.com/',
   themeColor: '#000',
   backgroundColor: '#fff',
