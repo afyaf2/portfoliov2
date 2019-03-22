@@ -115,7 +115,7 @@ export default createGlobalStyle`
   }
 
   h5 {
-    font-family: "Sans-Serif-Shaded", sans-serif;
+    font-family: "SansSerifShaded", sans-serif;
   }
 
   h6 {
